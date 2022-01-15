@@ -1,6 +1,6 @@
 # Notas
 
-Projeto de estudos do curso React: Entendendo como a biblioteca funciona da Alura;
+Projeto de estudos do curso "React: Entendendo como a biblioteca funciona" da Alura;
 
 Nesse projeto foi proposto a criação de um card de notas, onde é possivel a criação de varias notas a partir de um titulo e texto;
 
